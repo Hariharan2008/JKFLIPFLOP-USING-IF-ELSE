@@ -42,7 +42,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![de exp 4 gate](https://github.com/user-attachments/assets/597aceb9-ddc0-4798-8477-eb5a31c24981)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![exp 4](https://github.com/user-attachments/assets/b5e823fe-18c4-4491-afeb-c214bba4cf70)
 
 **RESULTS**
